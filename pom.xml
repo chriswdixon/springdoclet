@@ -9,8 +9,8 @@
   <name>Spring Doclet</name>
   <version>0.0.1</version>
   <properties>
-    <groovy.version>1.7.2</groovy.version>
-    <spring.version>3.0.2.RELEASE</spring.version>
+    <groovy.version>2.4.21</groovy.version>
+    <spring.version>6.1.20</spring.version>
     <aspectj.version>1.6.8</aspectj.version>
     <tools.version>1.5.0</tools.version>
   </properties>
@@ -67,7 +67,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.6</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
